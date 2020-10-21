@@ -7,3 +7,11 @@ Since S-EHR conducts health camps in remote parts of the world, one of the issue
 **Part 1:** Use HTML Browser storage - SQL 
 
 **Part 2:** Please update "Health Camp Single Page App - Local Storage" from storing to local storage to the AJAX Web-based storage. 
+
+
+---
+
+## Run Application
+```
+python3 main.py
+```
