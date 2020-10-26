@@ -9,9 +9,14 @@ Since S-EHR conducts health camps in remote parts of the world, one of the issue
 **Part 2:** Please update "Health Camp Single Page App - Local Storage" from storing to local storage to the AJAX Web-based storage. 
 
 
----
-
 ## Run Application
 ```
-python3 main.py
+cd healthcamp-spa
+npm start
 ```
+
+## WebSQL
+You must clear your browser's cookies in Settings in order to wipe the database in WebSQL. 
+
+---
+![](healthcamp-spa-hd.gif)
